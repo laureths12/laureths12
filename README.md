@@ -1,4 +1,6 @@
-### Hi there 👋
+Hola mi nombre es Laureth Samanta  
+Actualmente estoy estudian el curso de fundamentos en programacion web 
+
 
 <!--
 **laureths12/laureths12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
